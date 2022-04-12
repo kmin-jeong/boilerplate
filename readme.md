@@ -4,4 +4,5 @@
 
 ### react
 ### 주제 정하기
+### eslint 적용
 ### typescript
