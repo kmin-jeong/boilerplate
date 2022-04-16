@@ -6,4 +6,5 @@
 ### 주제 정하기
 ### eslint 적용
 ### jest 시도
+### jest 적용 시도 1
 ### typescript
