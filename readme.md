@@ -10,3 +10,4 @@
 ### jest 적용 시도 1
 ### jest 적용 성공!
 ### typescript
+### typescript-eslint 적용
